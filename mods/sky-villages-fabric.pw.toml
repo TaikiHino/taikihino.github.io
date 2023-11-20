@@ -1,13 +1,13 @@
 name = "Sky Villages [Fabric]"
-filename = "SkyVillages-1.0.2.1-1.20.1-fabric.jar"
+filename = "SkyVillages-1.0.3.2-1.19.2-1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ef78eef21b81024c6552cfbc4ff64da25701d8c7"
+hash = "5527d30e2ac7e3dd84a2596a558ba82a2f2f82b8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4607200
+file-id = 4850037
 project-id = 545483
