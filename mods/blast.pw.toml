@@ -1,0 +1,13 @@
+name = "BLAST 💣"
+filename = "blast-1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b63c6d7c91f8535261280e95a48b6ff719bb051e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4816835
+project-id = 349938

@@ -1,0 +1,13 @@
+name = "Item Collectors"
+filename = "itemcollectors-1.1.8-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4955bedd9fdd93c3b31a1f364862e34f99876e4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4625330
+project-id = 395620

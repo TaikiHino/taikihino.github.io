@@ -1,0 +1,13 @@
+name = "Hole Filler Mod"
+filename = "hole_filler_mod-1.2.4.3_mc-1.20.1_fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae549ddcbec2c33af1827243cb0ba53320028843"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4588145
+project-id = 440585

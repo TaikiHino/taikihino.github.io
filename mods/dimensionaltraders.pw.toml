@@ -1,0 +1,13 @@
+name = "Dimensional Trade Villagers [Fabric | Forge] "
+filename = "dimensional_traders-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84a83bc1c6c3f8dd4bbfd0aa48379558c5afc4f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4728603
+project-id = 907965
