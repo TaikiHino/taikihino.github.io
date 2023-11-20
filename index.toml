@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/CottageCraftAxolotls-1.1.0-1.20.1+.jar"
-hash = "12433c8edb554c44e209c63b75757880c9006d44123dadb9e7e459a8341dee59"
-
-[[files]]
 file = "mods/CottageCraftAxolotls-1.2.0-1.20.1+.jar"
 hash = "2b9e5b5b5620a376fea3fd4908a0b5b16d6aa87de48e4d955245719f9d38e9f6"
 
@@ -114,10 +110,6 @@ metafile = true
 file = "mods/beneath-the-wetlands.pw.toml"
 hash = "fa82a65aaae8a1ef2c6d4f97738a44ea5cf550b072793b055adccf3c98799412"
 metafile = true
-
-[[files]]
-file = "mods/better-clouds-1.3.10+1.20.1.jar"
-hash = "552684db72deb3e7f444c6ebf5f5bfa475ff70ebb942926e37c0e3ff741bf0ff"
 
 [[files]]
 file = "mods/better-clouds-1.3.11+1.20.1.jar"
@@ -384,10 +376,6 @@ hash = "f37fa0d524b176234a3f32fd2d4d448647356e8f4b3bdbca2c6927ff4a5f3721"
 metafile = true
 
 [[files]]
-file = "mods/explosive-enhancement-1.2.1-1.20.x.jar"
-hash = "b345720cf4b8d20ebdd5118bc3dc345172574a6d3c141d56134aceaee88cb1c3"
-
-[[files]]
 file = "mods/explosive-enhancement-1.2.2-1.20.x.jar"
 hash = "2a98b3f820b48c156e2495c28b994cf2835da172db852de6dd24bdef3b8de589"
 
@@ -420,10 +408,6 @@ metafile = true
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "b53794cc3b94d52b223c007b01b4960c7d6b51056e887506182b7ca9bfe42ad7"
 metafile = true
-
-[[files]]
-file = "mods/ferritecore-6.0.0-fabric.jar"
-hash = "efbf1d4df2a89621bb8d7090e04966795047db16513fef673a529a07dff66afe"
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
@@ -559,10 +543,6 @@ hash = "c5181734a4eb89c88128c08eb38a77ebe1de3639d8de653f9304b70378a7ba16"
 metafile = true
 
 [[files]]
-file = "mods/journeymap-1.20.1-5.9.15-fabric.jar"
-hash = "6254c35a6d09044cf3496c942330a16c3480932ccdab97c0790250a82f2affa1"
-
-[[files]]
 file = "mods/journeymap-1.20.1-5.9.18-fabric.jar"
 hash = "e9d50d0099498b82a164256f22c4bc732f1cdfd578924b29a900c266382a0570"
 
@@ -656,10 +636,6 @@ hash = "4e026e566d9b5bf8bb9f528e8f0dbe66184e1f514cc00544a3363a21f2feb482"
 metafile = true
 
 [[files]]
-file = "mods/modmenu-7.2.1.jar"
-hash = "885ebe63b677d76c2d780fc996089bf3a573c6dc80e02337e1cfba213085cf57"
-
-[[files]]
 file = "mods/modmenu-7.2.2.jar"
 hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
 
@@ -711,10 +687,6 @@ metafile = true
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "8918def6f85d9b1a4cbce0f5639b746c0aee9e4ad7d5ff8c2b2c2ceedb2768b6"
 metafile = true
-
-[[files]]
-file = "mods/nvidium-0.2.1-beta.jar"
-hash = "cf8962c400de1533e27099d4d7cf54d53a9172e4a522fee9f391cfb742ab168c"
 
 [[files]]
 file = "mods/nvidium-0.2.3-beta.jar"
@@ -848,11 +820,6 @@ metafile = true
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "2b016289d16f93a77351c33dc47f53e7c9c0f211d019d286ab12a66e33887607"
-metafile = true
-
-[[files]]
-file = "mods/simple-copper-pipes.pw.toml"
-hash = "14c520816726d09d5bdf1f4fc1ee42d3b4963ced9e23c712fb4d636f1aff9242"
 metafile = true
 
 [[files]]
