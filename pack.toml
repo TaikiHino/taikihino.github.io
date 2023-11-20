@@ -1,17 +1,13 @@
 name = "Ethereal SMP Official Modpack"
 author = "TaikiHino"
-version = "1.20.1"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f37d87989fb522ce7a3c618eac4832aa0a6ef1cab63b800c75237db70b3e7536"
+hash = "9052e6b381e690df478c76cfee92ad4189859553e4acce5a1c8b9c6300c084e6"
 
 [versions]
-fabric = "0.14.24"
 minecraft = "1.20.1"
-quilt = "0.21.0"
-
-[options]
-no-internal-hashes = true
+quilt = "0.21.2"

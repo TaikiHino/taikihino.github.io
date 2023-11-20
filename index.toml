@@ -1106,15 +1106,3 @@ metafile = true
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "b7987791c045f33c23e0da82481767e8aec672309fe98590604542ebfb11287e"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip"
-hash = "c689bac26885e817ba2511b47b6418bde840adffba35abd205c3b8f658329c89"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
-hash = "c9fc774b711380bd36e40c8f6464735b5ae8cb6877907c4750108dda4960e499"
