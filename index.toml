@@ -1,6 +1,699 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+
+[[files]]
+file = "config/ad_astra.jsonc"
+
+[[files]]
+file = "config/advancementplaques-common-1.toml.bak"
+
+[[files]]
+file = "config/advancementplaques-common.toml"
+
+[[files]]
+file = "config/adventurez.json5"
+
+[[files]]
+file = "config/almostunified/debug.json"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+
+[[files]]
+file = "config/almostunified/startup.json"
+
+[[files]]
+file = "config/almostunified/unify.json"
+
+[[files]]
+file = "config/appleskin.json5"
+
+[[files]]
+file = "config/artifacts/client.json5"
+
+[[files]]
+file = "config/artifacts/common.json5"
+
+[[files]]
+file = "config/audioplayer/audioplayer-server.properties"
+
+[[files]]
+file = "config/authme.json5"
+
+[[files]]
+file = "config/balm-common.out.toml"
+
+[[files]]
+file = "config/balm-common.toml"
+
+[[files]]
+file = "config/bclib/biomes.json"
+
+[[files]]
+file = "config/bclib/cache.json"
+
+[[files]]
+file = "config/bclib/client.json"
+
+[[files]]
+file = "config/bclib/generator.json"
+
+[[files]]
+file = "config/bclib/main.json"
+
+[[files]]
+file = "config/bclib/server.json"
+
+[[files]]
+file = "config/beautify.json"
+
+[[files]]
+file = "config/betterclouds-v1.json"
+
+[[files]]
+file = "config/betterdeserttemples-fabric-1_20.toml"
+
+[[files]]
+file = "config/betterdeserttemples/README.txt"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/README.txt"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/armorstands.json"
+
+[[files]]
+file = "config/betterdeserttemples/fabric-1_20/itemframes.json"
+
+[[files]]
+file = "config/betterdungeons-fabric-1_20.toml"
+
+[[files]]
+file = "config/betterend/blocks.json"
+
+[[files]]
+file = "config/betterend/client.json"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+
+[[files]]
+file = "config/betterend/entities.json"
+
+[[files]]
+file = "config/betterend/generator.json"
+
+[[files]]
+file = "config/betterend/items.json"
+
+[[files]]
+file = "config/betterend/portals.json"
+
+[[files]]
+file = "config/betterf3.json"
+
+[[files]]
+file = "config/betterfortresses-fabric-1_20.toml"
+
+[[files]]
+file = "config/betterfortresses/README.txt"
+
+[[files]]
+file = "config/betterfortresses/fabric-1_20/README.txt"
+
+[[files]]
+file = "config/betterfortresses/fabric-1_20/itemframes.json"
+
+[[files]]
+file = "config/betterjungletemples-fabric-1_20.toml"
+
+[[files]]
+file = "config/bettermineshafts-fabric-1_20.toml"
+
+[[files]]
+file = "config/betternether/blocks.json"
+
+[[files]]
+file = "config/betternether/generator.json"
+
+[[files]]
+file = "config/betternether/items.json"
+
+[[files]]
+file = "config/betternether/main.json"
+
+[[files]]
+file = "config/betternether/mobs.json"
+
+[[files]]
+file = "config/betteroceanmonuments-fabric-1_20.toml"
+
+[[files]]
+file = "config/betterpingdisplay.json"
+
+[[files]]
+file = "config/betterstrongholds-fabric-1_20.toml"
+
+[[files]]
+file = "config/betterstrongholds/README.txt"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/README.txt"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/armorstands.json"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/itemframes.json"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/ores.json"
+
+[[files]]
+file = "config/betterstrongholds/fabric-1_20/rareblocks.json"
+
+[[files]]
+file = "config/betterwitchhuts-fabric-1_20.toml"
+
+[[files]]
+file = "config/bobby.conf"
+
+[[files]]
+file = "config/borderlessmining.json"
+
+[[files]]
+file = "config/bountiful/bountiful.json"
+
+[[files]]
+file = "config/cameraoverhaul.json"
+
+[[files]]
+file = "config/camerautils/camerautils.properties"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+
+[[files]]
+file = "config/carryon-client.json"
+
+[[files]]
+file = "config/carryon-common.json"
+
+[[files]]
+file = "config/charmofundying-server.toml"
+
+[[files]]
+file = "config/chat_heads.json5"
+
+[[files]]
+file = "config/combatroll/client.json5"
+
+[[files]]
+file = "config/combatroll/enchantments.json"
+
+[[files]]
+file = "config/combatroll/hud_config.json"
+
+[[files]]
+file = "config/combatroll/server.json5"
+
+[[files]]
+file = "config/comforts-server.toml"
+
+[[files]]
+file = "config/connectivity.json"
+
+[[files]]
+file = "config/couplings.toml"
+
+[[files]]
+file = "config/creeperoverhaul.jsonc"
+
+[[files]]
+file = "config/cristellib/minecraftED.json5"
+
+[[files]]
+file = "config/cristellib/minecraftP.json5"
+
+[[files]]
+file = "config/croptopia/croptopia.conf"
+
+[[files]]
+file = "config/cull-less-leaves.json"
+
+[[files]]
+file = "config/detailarmorbar.json"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.json"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+
+[[files]]
+file = "config/dragonloot.json5"
+
+[[files]]
+file = "config/dungeon_difficulty_v2.json"
+
+[[files]]
+file = "config/dynamic_fps.json"
+
+[[files]]
+file = "config/dynamicfps.toml"
+
+[[files]]
+file = "config/emojitype.json"
+
+[[files]]
+file = "config/enchancement.json"
+
+[[files]]
+file = "config/endermanoverhaul-client.jsonc"
+
+[[files]]
+file = "config/endermanoverhaul.jsonc"
+
+[[files]]
+file = "config/entityculling.json"
+
+[[files]]
+file = "config/epicknights/armor.json5"
+
+[[files]]
+file = "config/epicknights/general.json5"
+
+[[files]]
+file = "config/epicknights/mobs_equipment.json5"
+
+[[files]]
+file = "config/epicknights/shields.json5"
+
+[[files]]
+file = "config/epicknights/weapons.json5"
+
+[[files]]
+file = "config/equipmentcompare-common.toml"
+
+[[files]]
+file = "config/explosiveenhancement.json"
+
+[[files]]
+file = "config/extraalchemy.json"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+
+[[files]]
+file = "config/fallingleaves.json"
+
+[[files]]
+file = "config/fallingtree.json"
+
+[[files]]
+file = "config/farmersdelight.json"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+
+[[files]]
+file = "config/fishofthieves.json"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+
+[[files]]
+file = "config/friendsandfoes.json"
+
+[[files]]
+file = "config/frostiful.json"
+
+[[files]]
+file = "config/fwaystones/config.json5"
+
+[[files]]
+file = "config/geodes.properties"
+
+[[files]]
+file = "config/goblintraders-entities.toml"
+
+[[files]]
+file = "config/graveyard/the-graveyard-2.6-config.json5"
+
+[[files]]
+file = "config/hardcorerevival-common.toml"
+
+[[files]]
+file = "config/held-item-info.json"
+
+[[files]]
+file = "config/hole_filler_mod.json"
+
+[[files]]
+file = "config/icarus.json"
+
+[[files]]
+file = "config/illagerinvasion-server.toml"
+
+[[files]]
+file = "config/immersive_aircraft.json"
+
+[[files]]
+file = "config/immersive_paintings.json"
+
+[[files]]
+file = "config/indium-renderer.properties"
+
+[[files]]
+file = "config/inmis.json"
+
+[[files]]
+file = "config/iris.properties"
+
+[[files]]
+file = "config/itemcollectors-common.toml"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+
+[[files]]
+file = "config/jei/world/local/New_World__3/bookmarks.ini"
+
+[[files]]
+file = "config/jei/world/local/man/bookmarks.ini"
+
+[[files]]
+file = "config/jewelry/items.json"
+
+[[files]]
+file = "config/jewelry/loot_v2.json"
+
+[[files]]
+file = "config/jewelry/world_gen.json"
+
+[[files]]
+file = "config/jmi-client.json"
+
+[[files]]
+file = "config/journeymap-server.json"
+
+[[files]]
+file = "config/jsonem.properties"
+
+[[files]]
+file = "config/labels-client.json"
+
+[[files]]
+file = "config/lithium.properties"
+
+[[files]]
+file = "config/lootr.json"
+
+[[files]]
+file = "config/mcdar.json5"
+
+[[files]]
+file = "config/measurements.toml"
+
+[[files]]
+file = "config/midnightlib.json"
+
+[[files]]
+file = "config/modelfix-client.json"
+
+[[files]]
+file = "config/modmenu.json"
+
+[[files]]
+file = "config/moonlight-client.json"
+
+[[files]]
+file = "config/naturalist.json"
+
+[[files]]
+file = "config/notenoughanimations.json"
+
+[[files]]
+file = "config/notenoughcrashes.json"
+
+[[files]]
+file = "config/numismatic-overhaul.json5"
+
+[[files]]
+file = "config/particlerain.json5"
+
+[[files]]
+file = "config/pehkui/config.json"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-client.toml"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-server.toml"
+
+[[files]]
+file = "config/polymer/client.json"
+
+[[files]]
+file = "config/polymer/common.json"
+
+[[files]]
+file = "config/polymer/networking.json"
+
+[[files]]
+file = "config/polymer/resource-pack.json"
+
+[[files]]
+file = "config/polymer/server.json"
+
+[[files]]
+file = "config/projectile_damage.json"
+
+[[files]]
+file = "config/promenade/animals.json"
+
+[[files]]
+file = "config/promenade/biomes.json"
+
+[[files]]
+file = "config/promenade/monsters.json"
+
+[[files]]
+file = "config/promenade/world_features.json"
+
+[[files]]
+file = "config/quilt-loader.txt"
+
+[[files]]
+file = "config/quilt/qsl/registry.toml"
+
+[[files]]
+file = "config/replaymod-rendersettings.json"
+
+[[files]]
+file = "config/replaymod.json"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+
+[[files]]
+file = "config/rightclickharvest.json"
+
+[[files]]
+file = "config/sculk-config.json5"
+
+[[files]]
+file = "config/shouldersurfing.toml"
+
+[[files]]
+file = "config/simplehats.json"
+
+[[files]]
+file = "config/simplehats/client.toml"
+
+[[files]]
+file = "config/simplehats/common.toml"
+
+[[files]]
+file = "config/skinlayers.json"
+
+[[files]]
+file = "config/smallships-client.toml"
+
+[[files]]
+file = "config/smallships-common.toml"
+
+[[files]]
+file = "config/snowyspirit-client.json"
+
+[[files]]
+file = "config/snowyspirit-common.json"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+
+[[files]]
+file = "config/sodium-extra.properties"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+
+[[files]]
+file = "config/sodium-options.json"
+
+[[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+
+[[files]]
+file = "config/spark/config.json"
+
+[[files]]
+file = "config/spell_engine/client.json5"
+
+[[files]]
+file = "config/spell_engine/enchantments.json"
+
+[[files]]
+file = "config/spell_engine/hud_config.json"
+
+[[files]]
+file = "config/spell_engine/server.json5"
+
+[[files]]
+file = "config/spell_power/attributes.json"
+
+[[files]]
+file = "config/spell_power/enchantments.json"
+
+[[files]]
+file = "config/spell_power/status_effects.json"
+
+[[files]]
+file = "config/structureessentials.json"
+
+[[files]]
+file = "config/supplementaries-client.json"
+
+[[files]]
+file = "config/supplementaries-common.json"
+
+[[files]]
+file = "config/terrablender.toml"
+
+[[files]]
+file = "config/thermoo.json"
+
+[[files]]
+file = "config/toms_storage.json"
+
+[[files]]
+file = "config/totemcounter.toml"
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+
+[[files]]
+file = "config/travelersbackpack.json5"
+
+[[files]]
+file = "config/travelerstitles-fabric-1_20.toml"
+
+[[files]]
+file = "config/universal-graves/config.json"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_player.json"
+
+[[files]]
+file = "config/universal-graves/example_models/corpse_zombie.json"
+
+[[files]]
+file = "config/universal-graves/example_models/default.json"
+
+[[files]]
+file = "config/universal-graves/example_models/player_head.json"
+
+[[files]]
+file = "config/universal-graves/example_models/soul.json"
+
+[[files]]
+file = "config/vcinteraction/vcinteraction.properties"
+
+[[files]]
+file = "config/vinery/config.json5"
+
+[[files]]
+file = "config/visuality.json"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+
+[[files]]
+file = "config/voicechat/voicechat-volumes.properties"
+
+[[files]]
+file = "config/voidz.json5"
+
+[[files]]
+file = "config/wizards/effects.json"
+
+[[files]]
+file = "config/wizards/items_v2.json"
+
+[[files]]
+file = "config/wizards/loot_v2.json"
+
+[[files]]
+file = "config/wizards/world_gen.json"
+
+[[files]]
+file = "config/zoomify.json"
+
+[[files]]
 file = "mods/CottageCraftAxolotls-1.1.0-1.20.1+.jar"
 
 [[files]]

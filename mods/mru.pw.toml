@@ -1,13 +1,13 @@
 name = "M.R.U"
-filename = "mru-0.4.0+1.20.jar"
+filename = "mru-0.2.1+1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d1795961af8719c6f0d6e3fd14e58f246333eef2"
+hash = "65dc28ab9c202d70815c59b7577e2b1a81574430"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4832930
+file-id = 4601376
 project-id = 669659
