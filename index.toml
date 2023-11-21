@@ -376,6 +376,11 @@ hash = "7c3d272613d2d14ae8de735b63ad63cd898c767f4fa3ae4ba325c84584a5be86"
 metafile = true
 
 [[files]]
+file = "mods/essential-mod.pw.toml"
+hash = "369457dbbaa46f890f95378a72e4cac8a5f9e54c98816a9e4ac98fc051578939"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "f37fa0d524b176234a3f32fd2d4d448647356e8f4b3bdbca2c6927ff4a5f3721"
 metafile = true
@@ -735,11 +740,6 @@ metafile = true
 [[files]]
 file = "mods/plushie-mod.pw.toml"
 hash = "ac823eff6636aa414cf7bf0c3fc9b08861cf0de217b80ba7b6bb2ef4155d27f0"
-metafile = true
-
-[[files]]
-file = "mods/project-543559.pw.toml"
-hash = "bc50073b57a6d0acfb3a0ba11ea0fea181297c40d1a6511dff590222b57c1dbe"
 metafile = true
 
 [[files]]
