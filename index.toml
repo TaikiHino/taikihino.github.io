@@ -381,6 +381,11 @@ hash = "369457dbbaa46f890f95378a72e4cac8a5f9e54c98816a9e4ac98fc051578939"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "2422dc96e20cf4660fda3bea7f1bfc2ca57d84a08b95b483fe41ce073468242b"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "f37fa0d524b176234a3f32fd2d4d448647356e8f4b3bdbca2c6927ff4a5f3721"
 metafile = true
