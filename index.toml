@@ -703,11 +703,6 @@ hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
 
 [[files]]
-file = "mods/pack-it-up.pw.toml"
-hash = "372dc79ff268573201aa348d5809e1eb0542df3d0c89e69c54d4b709119ebd2c"
-metafile = true
-
-[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "bad06b090d9b689225670d175659fdfe1bad951fad012f70f61906639d632cb4"
 metafile = true
@@ -984,11 +979,6 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "bbad1f945df9c8ac5fa3d46cf8f4afb7e33af033f6b2ad50f4f77b2ddddced3a"
-metafile = true
-
-[[files]]
-file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "2f320832cdd9b4002e2a64f24ef0e4196a27d9f505de4716afac1f1f2b9e4422"
 metafile = true
 
 [[files]]
