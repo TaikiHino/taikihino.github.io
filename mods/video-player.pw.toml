@@ -1,0 +1,13 @@
+name = "Video Player"
+filename = "VideoPlayer-2.0.3-FABRIC-1.20.X.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bbf4e74b23a2805d84bda8aa01e4c48296f49a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4599324
+project-id = 645407
