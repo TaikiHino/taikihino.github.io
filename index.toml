@@ -186,11 +186,6 @@ hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
-metafile = true
-
-[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "ce780c8579a607fe190368b4d4aadf3560ef74ebc5dca8beaef9d9a91a4d53f9"
 metafile = true
