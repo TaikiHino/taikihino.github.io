@@ -1011,11 +1011,6 @@ hash = "460f5e779cd326c3cad3f04ed2dd473de6b5b3561a1c0c5f232681bcefc1418e"
 metafile = true
 
 [[files]]
-file = "mods/video-player.pw.toml"
-hash = "0a9e85725a878a04f12a7f62bce82aacc56f4c399783f3893601a536527b6864"
-metafile = true
-
-[[files]]
 file = "mods/vinery.pw.toml"
 hash = "022993a8c47b81c5ca92faa5cb7510c241193e832347b5fcee61fdcfc55b5f63"
 metafile = true
@@ -1038,11 +1033,6 @@ metafile = true
 [[files]]
 file = "mods/wakes-0.2.0.jar"
 hash = "b67143a8294dddca60420e599dd8fe8b42d9b7ae3260b41417e3eb64a7b8a11f"
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "5c6cf94acdc6ae9af2204ed1e74bead46d1f426db3b68baddc7eae17ec348509"
-metafile = true
 
 [[files]]
 file = "mods/welcome-to-meadow.pw.toml"
