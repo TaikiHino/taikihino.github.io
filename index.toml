@@ -893,6 +893,11 @@ hash = "fae9d0af983eff51d6c486f1ff525553b94c734f85f29015d5f8ae608b30bf1f"
 metafile = true
 
 [[files]]
+file = "mods/squashed.pw.toml"
+hash = "3c5788204aa361759659026eac496730de66f4f3ef89b4f45b5653425623f328"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
 metafile = true

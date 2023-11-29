@@ -1,0 +1,13 @@
+name = "Squashed!"
+filename = "net.leafenzo.squashed-v1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dgDaegP4/versions/tEH8E3PG/net.leafenzo.squashed-v1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "8ad202022b6c76cb52693cf41c303da6b6ed0064"
+
+[update]
+[update.modrinth]
+mod-id = "dgDaegP4"
+version = "tEH8E3PG"
